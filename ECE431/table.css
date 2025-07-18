@@ -1,0 +1,15 @@
+table{
+    margin: 10px;
+    border:1px ;
+}
+th,td{
+    border: 1px soild black;
+    padding: 10px;
+    text-align: center;
+}
+thead{
+    background-color: rgb(173, 244, 149);
+}
+tbody tr:nth-child(odd){
+    background-color: rgb(194, 150, 236);
+}

@@ -1,0 +1,10 @@
+.container{
+    background-image: url("https://media.istockphoto.com/id/2196545732/photo/cosmos-blooming-in-a-park.jpg?s=2048x2048&w=is&k=20&c=CiIRs_dii0VY-1jiXRx_HbIuLIpmzvlPbgbBBW9F9bk=");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.heading-1{
+    text-align: center;
+    color: rgb(110, 47, 168);
+}
